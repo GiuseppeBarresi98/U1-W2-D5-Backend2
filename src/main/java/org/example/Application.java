@@ -21,7 +21,7 @@ import static org.example.Utils.Utils.getRandomEnum;
 
 public class Application {
 
-
+//
     public static void main(String[] args) throws IOException {
         Faker faker = new Faker(Locale.ITALY);
 
